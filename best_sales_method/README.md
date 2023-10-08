@@ -1,2 +1,4 @@
 # project
-All project I have done
+- Full Code in notebook.ipynb
+- dataset in .csv
+- Presentation in pdf 
